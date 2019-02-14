@@ -215,6 +215,7 @@ footer>ul>li {
   margin-top: auto;
 
 
+
 }
 
 .lastname{
@@ -224,17 +225,16 @@ footer>ul>li {
   grid-column-start: 1;
   margin-bottom: 0;
   margin-right: 0;
-  padding-left: 0;
+  padding-left: 10px;
   writing-mode: horizontal-tb;
   transform: rotate(360deg);
   color: black;
   font-size: 8vw;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
+  padding-left: 2em;
+
+
 }
-.l .f {
-  padding-right: 0.5em;
-}
+
 
 .works{
   grid-row-start: 3;
